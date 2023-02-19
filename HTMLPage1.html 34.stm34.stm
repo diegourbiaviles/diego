@@ -1,0 +1,38 @@
+﻿
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <title>Diego personal site</title>
+</head>
+<body>
+    <table><tr>
+    <td><img src="https://ssb.wiki.gallery/images/5/53/Young_Link.png" alt="Diego profile picture"</td>
+    <td>
+        <h1>Diego Urbina</h1>
+        <p><em>systems engineering <strong>student</strong></em></p>
+        <p> I am a student who is learning about web developlment. I like play video games </p>
+    </td>
+</tr></table>
+    <hr />
+    <h3>Education</h3>
+    <hr />
+    <ul><li><a href="https://www.facebook.com/chn1975/?locale=es_LA">Colegio Hispano Nicaraguense</a></li></ul>
+    <ul><li> 2 years in daily english class from the european adacemy</li></ul>
+    <hr />
+    <h3> Work experience</h3>
+    <table cellspacing="10"><thead><tr><th>dates</th><th>work</th></tr><tbody><tfoot></tfoot></tbody></thead><tr><td>2010/2012</td><td>this is only and example</td></tr></table>
+    <table cellspacing="10"><tr><td>2020/2022</td><td>example example  example</td></tr></table>
+    <hr />
+    <a href="HTMLPage2.html">My hobbies</a>
+    <a href="Contact Me.html"> Contact me</a>
+    <h3>Skills</h3>
+    <table><tr>
+    <td>
+    </td>
+    <table cellspacing="10"><tr><td>web development</td><td>✨✨✨</td></tr></table>
+    <table cellspacing="10"><tr><td>Painting</td><td>✨✨</td></tr></table>
+</tr></table>
+    
+
+</body>
+</html>
